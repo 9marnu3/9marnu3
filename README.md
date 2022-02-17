@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9marnu3
+- 👋 Hi, I’m Prince Marnu
 - 👀 I’m interested in studying new technology
 - 🌱 I’m currently learning powershell
 - 💞️ I’m looking to collaborate on any interesting project
